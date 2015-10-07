@@ -17,7 +17,7 @@ public class EjerciciosJava {
     public static void main(String[] args) {
         // TODO code application logic here
     int dato1=40;
-            int dato2=50;
+            int dato2=20;
                     int suma=dato1+dato2;
                     System.out.println("La suma del dato1 y dato2 hacen: "+suma);
     
